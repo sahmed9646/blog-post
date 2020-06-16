@@ -1,6 +1,6 @@
 # blog-post
 # Blog Web Application
-Built with custom <strong>MVC</strong> design pattern</br>
+Built with custom <strong>MVC</strong> design pattern (the core framework <a href="https://github.com/shamed9646/sabbirMVC">sabbirMVC</a>)</br>
 Fully functional blog application with a functional admin panel</br>
 The application provides public post sharing like a social midea</br>
 People can read other people's blog</br>
